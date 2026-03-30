@@ -1,0 +1,19 @@
+{
+  "version": "1.0.1",
+  "release_date": "2026-03-30",
+  "download_url": "https://github.com/Rorth168/AI_Video_Download/releases/download/v1.0.1/main_video_image_DL.exe",
+  "changelog": [
+    "🆕 Added in-app GitHub update feature",
+    "🔄 Auto-download and install updates from GitHub releases",
+    "📊 Real-time download progress tracking",
+    "🔄 Auto-restart after update completes",
+    "🇰🇭 Full Khmer and English language support",
+    "🐛 Bug fixes and performance improvements"
+  ],
+  "minimum_version": "1.0",
+  "force_update": false,
+  "release_notes": {
+    "km": "ការធ្វើបច្ចុបបន្នភាពថ្មីជាមួយមុខងារធ្វើបច្ចុបបន្នភាពដោយស្វ័យប្រវត្តិពី GitHub",
+    "en": "New update with automatic update feature from GitHub"
+  }
+}
