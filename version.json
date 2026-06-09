@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "release_date": "2026-03-30",
-  "download_url": "https://github.com/Brorth/AI-Video-Download/releases/download/v1.0.2/AI_Video_Download-v1.0.2.exe",
+  "version": "1.0.3",
+  "release_date": "2026-06-09",
+  "download_url": "https://github.com/Brorth/AI-Video-Download/releases/download/V1.0.3/AI_Video_Download-v1.0.3.exe",
   "changelog": [
     "🆕 Added in-app GitHub update feature",
     "🔄 Auto-download and install updates from GitHub releases",
@@ -13,7 +13,7 @@
   "minimum_version": "1.0",
   "force_update": false,
   "release_notes": {
-    "km": "ការធ្វើបច្ចុបបន្នភាពថ្មីជាមួយមុខងារធ្វើបច្ចុបបន្នភាពដោយស្វ័យប្រវត្តិពី GitHub",
-    "en": "New update with automatic update feature from GitHub"
+    "km": "🔒 ការធ្វើបច្ចុប្បន្នភាពសុវត្ថិភាព៖\n• អ៊ិនគ្រីប API Credentials ដោយស្វ័យប្រវត្តិ\n• គាំទ្រគណនី Telegram ច្រើន\n• កែប្រែ Theme ឱ្យដំណើរការល្អគ្រប់ Dialog\n• ជួសជុលកំហុសផ្សេងៗ",
+    "en": "🔒 Security Update:\n• Encrypted API Credentials (Machine-Bound)\n• Multi-Account Telegram Support\n• Full Dark/Light Theme for ALL Dialogs\n• Bug fixes and improvements"
   }
 }
